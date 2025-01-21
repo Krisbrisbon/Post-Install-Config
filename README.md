@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/Ui4arXb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ui4arXb.png" height="80%" width="80%" 
 </p>
 <p>
 Configured Roles and Teams. Created Tickets On End User and Solved on Main User
@@ -47,7 +47,7 @@ Open and Closed Tickets with fake Agents and real team roles
 <br />
 
 <p>
-<img src="https://imgur.com/a/7W7XlVb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/7W7XlVb.png" height="80%" width="80%" 
 </p>
 <p>
 Closed Tickets To completion with Admin User.
