@@ -38,18 +38,4 @@ Configured Roles and Teams. Created Tickets On End User and Solved on Main User
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/a/zqhfgOx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Open and Closed Tickets with fake Agents and real team roles
-</p>
-<br />
 
-<p>
-<img src="https://imgur.com/a/7W7XlVb.png" height="80%" width="80%" 
-</p>
-<p>
-Closed Tickets To completion with Admin User.
-</p>
-<br />
