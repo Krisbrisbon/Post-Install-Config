@@ -25,7 +25,6 @@
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/tv2iaIC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Installed and Configured OsTicketing System From Scratch, Enabling PHP
@@ -33,7 +32,6 @@ Installed and Configured OsTicketing System From Scratch, Enabling PHP
 <br />
 
 <p>
-<img src="https://imgur.com/a/tv2iaIC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Created Ticket On fake End User accound and responded with a follow up prompt as if I was the customer resolving an issue.
@@ -41,9 +39,8 @@ Created Ticket On fake End User accound and responded with a follow up prompt as
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
